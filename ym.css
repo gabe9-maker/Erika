@@ -1,0 +1,42 @@
+body {
+ background-color: black;
+} 
+p {
+ color: white;
+}
+h2 {
+ color: white;
+}
+h1 {
+ color: white;
+}
+a:hover {
+color: white;
+text-decoration: underline;
+}
+header {
+ text-align: center;
+ border-bottom: 3px solid white;
+}
+#left {
+ float: left;
+ width: 20%;
+}
+#right {
+float: left;
+font-size: 35px;
+font-family: georgia;
+border-left: 3px solid white;
+width: 75%;
+}
+#footer {
+clear: both;
+border-top: 3px solid white;
+text-align: center;
+}
+ img {
+float: left;
+}
+a { 
+ color: pink;
+}
